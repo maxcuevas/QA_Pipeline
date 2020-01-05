@@ -1,0 +1,16 @@
+Id,database,table,rule_that_broke
+--,--------,-----,---------------
+1,main_database,employee,found record below 50: 29
+2,main_database,employee,found record below 50: 25
+3,main_database,employee,found record below 50: 5
+4,main_database,employee,found record below 50: 8
+5,main_database,employee,found record below 50: 10
+6,main_database,employee,found record below 50: 34
+7,main_database,employee,found record below 50: 34
+8,main_database,employee,found record below 50: 20
+9,main_database,employee,found record below 15: 12
+10,main_database,employee,found record below 15: 2
+11,main_database,employee,found record below 15: 4
+12,main_database,employee,found record below 15: 6
+
+(12 rows affected)

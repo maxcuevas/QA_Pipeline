@@ -62,5 +62,6 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\employee.sql" />
+    <Build Include="dbo\Tables\table_with_variables.sql" />
   </ItemGroup>
 </Project>
