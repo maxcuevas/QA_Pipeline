@@ -1,0 +1,2 @@
+DROP DATABASE qa;
+DROP DATABASE main_database;
